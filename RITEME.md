@@ -9,3 +9,10 @@ Alot of ldjsflkasjdfoiuasjf
 ## GIT AND GITHUB TRAINING
 alkksdf'asdipojgalkba pasfkmvoiausdkf;
 
+## GIT COMPARISONS
+Adding Git Comparisons Lecture:\\
+
+
+
+##GIT HUB CONTENT COMPARISON WITH REPO:
+SLDjflkajslkfjasioglfahglkfoiaeflkjalk; jlakvjsfmajsdlk jalksjW
