@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    <name> -- <- <twitter>
+jljjlaksdjflksdaioufagj;hisafjvlk;adjsoifrioewjl
 # THANKS
 
     <name>
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS5, ANGULAR, React, JQurey
+    HTML5, CSS5, ANGULAR, React, JQur
+    l
     jQuery, Modernizr
