@@ -1,3 +1,13 @@
+## ADING IMPORTANT MESSAGE
+
+
+
+
+
+
+
+
+
 
 # STATRER WEB PROJECT
 This is GIT PROJECT, whick we are using as smple project
@@ -52,7 +62,7 @@ CLEANUP GURINCHI CHEPPADU
 
 
 
-##INTRODUCTION
+##INTRODUCTIO#N
 
 Alot of lectures are still added and few are coming on
 
